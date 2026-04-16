@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-04-16T11:58:11.536Z",
+  "releases": [
+    {
+      "appid": 743920,
+      "name": "Choo-Choo! The Train Rides!",
+      "shortDescription": "Choo-Choo! The Train Rides! is an endless runner with unique mechanics. The further you go, the quicker it will get. Challenge yourself and beat your friends' and/or other players' records!",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/743920/header.jpg?t=1761302501",
+      "capsuleImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/743920/capsule_231x87.jpg?t=1761302501",
+      "website": "https://sestudio.org/",
+      "developers": [
+        "[object Object]"
+      ],
+      "publishers": [
+        "SeStudio"
+      ],
+      "releaseDate": "Aug 10, 2020",
+      "comingSoon": false,
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "storeUrl": "https://store.steampowered.com/app/743920/"
+    }
+  ]
+}

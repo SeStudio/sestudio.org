@@ -8,6 +8,7 @@ export const organizationSchema = {
   email: 'support@sestudio.org',
   sameAs: [
     'https://store.steampowered.com/publisher/sestudio',
+    'https://play.google.com/store/apps/dev?id=9147147906475161807',
     'https://x.com/SeStudioCompany',
     'https://github.com/SeStudio'
   ]
